@@ -1,1 +1,1 @@
-# Article.RD.Python.ComparativeAnalysisOfTtickDatafeedsDuringPeriodsOfHighMarketVolat
+# Article.RD.Python.ComparativeAnalysisOfTickDatafeedsDuringPeriodsOfHighMarketVolat
