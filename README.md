@@ -1,4 +1,4 @@
-# Article.RD.Python.ComparativeAnalysisOfTickDatafeedsDuringPeriodsOfHighMarketVolat
+# Comparative analysis of LSEG FX tick datafeeds during periods of high market volatility
 
 ## <a id="overview"></a>Overview
 The aim of this research is to analyse the FX data offerings from LSEG – the Blended Rate (TRB), FXAll Pricestream data (FXV) and our contributor data (Super RIC). These data sets have differing methodologies and sources to accommodate for a wide range of use cases and accurately reflect the different market tiers that exist in Foreign Exchange. This means that the LSEG data offering can provide a bespoke fit to our clients’ specific requirements and the markets they operate in to maximise accuracy.
